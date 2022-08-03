@@ -1,0 +1,22 @@
+.btn {
+    width: 150px;
+    height: 150px;
+    padding: 15px 20px;
+    border-radius: 75px;
+    font-size: 20px;
+    text-align: center;
+    border-color: black;
+    border-width: 3px;
+}
+.bd {
+    background-size: auto;
+    text-align: center;
+    padding-top: 100px;
+    margin: 140px;
+}
+.h3{
+    margin: 40px;
+}
+.header{
+    margin-bottom: 40px;
+}
